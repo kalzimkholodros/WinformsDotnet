@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67c22bde2f5bf8120e5662d9"
+  },
+  "username": "admin",
+  "password": "$2a$11$QnrL7.X6LQ5LF0IzYnFuPQQI2Zc/YwEKEj0W9yutZSBRzX5lLWF5.",
+  "role": "admin",
+  "favorites": [],
+  "balance": 1000,
+  "friends": [],
+  "friendRequests": [],
+  "ownedMovies": [],
+  "receivedGifts": [],
+  "profilePicture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp",
+  "notifications": []
+},
+{
+  "_id": {
+    "$oid": "67c22be22f5bf8120e5662db"
+  },
+  "username": "user1",
+  "password": "$2a$11$QnrL7.X6LQ5LF0IzYnFuPQQI2Zc/YwEKEj0W9yutZSBRzX5lLWF5.",
+  "role": "user",
+  "favorites": [],
+  "balance": 100,
+  "friends": [],
+  "friendRequests": [],
+  "ownedMovies": [],
+  "receivedGifts": [],
+  "profilePicture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp",
+  "notifications": []
+},
+{
+  "_id": {
+    "$oid": "67c22c12c0219513f8b0500a"
+  },
+  "Username": "admin",
+  "Password": "$2a$11$uRYbWc7zxzNWzdn/zA7/LOdFZGR3ofhwT4Z9kIeSL4Bz9wwnxKgya",
+  "Role": "admin",
+  "Favorites": [],
+  "Balance": {
+    "$numberDecimal": "1000"
+  },
+  "Friends": [],
+  "FriendRequests": [],
+  "OwnedMovies": [],
+  "ReceivedGifts": [],
+  "ProfilePicture": "https://www.gravatar.com/avatar/default?d=mp&f=y"
+},
+{
+  "_id": {
+    "$oid": "67c22c18c0219513f8b0500b"
+  },
+  "Username": "1",
+  "Password": "$2a$11$Kc3cFBSo704IMPUzBIhr9ufeJfAif.5lGP.uCeHC7NYOji9QR4lue",
+  "Role": "user",
+  "Favorites": [],
+  "Balance": {
+    "$numberDecimal": "1000"
+  },
+  "Friends": [],
+  "FriendRequests": [],
+  "OwnedMovies": [],
+  "ReceivedGifts": [],
+  "ProfilePicture": "https://www.gravatar.com/avatar/default?d=mp&f=y"
+}]

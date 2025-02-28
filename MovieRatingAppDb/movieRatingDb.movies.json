@@ -1,0 +1,410 @@
+[{
+  "_id": {
+    "$oid": "67c229402f5bf8120e5662c3"
+  },
+  "title": "The Shawshank Redemption",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+  "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+  "releaseYear": 1994,
+  "director": "Frank Darabont",
+  "genre": "Drama",
+  "cast": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton"
+  ],
+  "price": 14.99,
+  "isOnSale": false,
+  "discountRate": 0,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c229452f5bf8120e5662c5"
+  },
+  "title": "The Godfather",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "releaseYear": 1972,
+  "director": "Francis Ford Coppola",
+  "genre": "Crime, Drama",
+  "cast": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "price": 19.99,
+  "isOnSale": true,
+  "discountRate": 0.2,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": [
+        {
+          "$oid": "67c21fa177259a5cf619e4ae"
+        }
+      ]
+    },
+    {
+      "userId": {
+        "$oid": "67c21fa177259a5cf619e4ae"
+      },
+      "username": "1",
+      "rating": 6.5,
+      "comment": "dsfafsgafs",
+      "ratedDate": {
+        "$date": "2025-02-28T21:26:56.043Z"
+      },
+      "likedBy": [
+        {
+          "$oid": "67c21fa177259a5cf619e4ae"
+        }
+      ]
+    }
+  ],
+  "averageUserRating": 3.25,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c2294a2f5bf8120e5662c7"
+  },
+  "title": "The Dark Knight",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+  "releaseYear": 2008,
+  "director": "Christopher Nolan",
+  "genre": "Action, Crime, Drama",
+  "cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "price": 24.99,
+  "isOnSale": false,
+  "discountRate": 0,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    },
+    {
+      "userId": {
+        "$oid": "67c21fa177259a5cf619e4ae"
+      },
+      "username": "1",
+      "rating": 7,
+      "comment": "fvsvfdbad",
+      "ratedDate": {
+        "$date": "2025-02-28T21:27:15.363Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 3.5,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c2294f2f5bf8120e5662c9"
+  },
+  "title": "Pulp Fiction",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "releaseYear": 1994,
+  "director": "Quentin Tarantino",
+  "genre": "Crime, Drama",
+  "cast": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ],
+  "price": 24.99,
+  "isOnSale": false,
+  "discountRate": 0,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    },
+    {
+      "userId": {
+        "$oid": "67c21fa177259a5cf619e4ae"
+      },
+      "username": "1",
+      "rating": 7,
+      "comment": "grfadfgf",
+      "ratedDate": {
+        "$date": "2025-02-28T21:30:31.128Z"
+      },
+      "likedBy": [
+        {
+          "$oid": "67c22c18c0219513f8b0500b"
+        }
+      ]
+    },
+    {
+      "userId": {
+        "$oid": "67c22c12c0219513f8b0500a"
+      },
+      "username": "admin",
+      "rating": 10,
+      "comment": "fgagafg",
+      "ratedDate": {
+        "$date": "2025-02-28T21:40:46.585Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 5.666666666666667,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c229542f5bf8120e5662cb"
+  },
+  "title": "Inception",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+  "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+  "releaseYear": 2010,
+  "director": "Christopher Nolan",
+  "genre": "Action, Adventure, Sci-Fi",
+  "cast": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Ellen Page"
+  ],
+  "price": 29.99,
+  "isOnSale": true,
+  "discountRate": 0.15,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c229592f5bf8120e5662cd"
+  },
+  "title": "Interstellar",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+  "releaseYear": 2014,
+  "director": "Christopher Nolan",
+  "genre": "Adventure, Drama, Sci-Fi",
+  "cast": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ],
+  "price": 34.99,
+  "isOnSale": true,
+  "discountRate": 0.1,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c2295e2f5bf8120e5662cf"
+  },
+  "title": "The Matrix",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A computer programmer discovers that reality as he knows it is a simulation created by machines, and joins a rebellion to break free from it.",
+  "releaseYear": 1999,
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "genre": "Action, Sci-Fi",
+  "cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "price": 24.99,
+  "isOnSale": false,
+  "discountRate": 0,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c229622f5bf8120e5662d1"
+  },
+  "title": "Fight Club",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+  "releaseYear": 1999,
+  "director": "David Fincher",
+  "genre": "Drama",
+  "cast": [
+    "Brad Pitt",
+    "Edward Norton",
+    "Helena Bonham Carter"
+  ],
+  "price": 19.99,
+  "isOnSale": false,
+  "discountRate": 0,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c229662f5bf8120e5662d3"
+  },
+  "title": "Forrest Gump",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+  "releaseYear": 1994,
+  "director": "Robert Zemeckis",
+  "genre": "Drama, Romance",
+  "cast": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "price": 19.99,
+  "isOnSale": true,
+  "discountRate": 0.25,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+},
+{
+  "_id": {
+    "$oid": "67c2296b2f5bf8120e5662d5"
+  },
+  "title": "Gladiator",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+  "releaseYear": 2000,
+  "director": "Ridley Scott",
+  "genre": "Action, Adventure, Drama",
+  "cast": [
+    "Russell Crowe",
+    "Joaquin Phoenix",
+    "Connie Nielsen"
+  ],
+  "price": 22.99,
+  "isOnSale": true,
+  "discountRate": 0.2,
+  "userRatings": [
+    {
+      "userId": {
+        "$oid": "000000000000000000000000"
+      },
+      "username": "",
+      "rating": 0,
+      "comment": "",
+      "ratedDate": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "likedBy": []
+    }
+  ],
+  "averageUserRating": 0,
+  "purchaseCount": 0
+}]
